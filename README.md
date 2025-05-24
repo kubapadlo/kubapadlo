@@ -1,7 +1,6 @@
 ## Hi there 👋
 👨‍🎓 I'm 2nd year student of Computer Science in Engineering
 👯 I’m looking to collaborate on any Computer Science in Medicine appliance.
-🌱 None projects yet, but I am working on it😎
 <!--
 **kubapadlo/kubapadlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
