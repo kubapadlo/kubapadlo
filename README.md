@@ -1,7 +1,8 @@
 ## Hi there 👋
+<!--
 👨‍🎓 I'm 2nd year student of Computer Science in Engineering
 👯 I’m looking to collaborate on any Computer Science in Medicine appliance.
-<!--
+
 **kubapadlo/kubapadlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
